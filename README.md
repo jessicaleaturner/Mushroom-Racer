@@ -2,6 +2,8 @@
 
 A top-down, 2D-style racing game built in Unity. You play Briar Tomestone, racing the arrogant Prince Ted Toadstool through bright, cartoonish forest tracks to qualify for the Toadstool Grand Prix. First to finish three laps wins, and pickups can be used to slow your rival down.
 
+**Status:** Complete. This project is archived and no longer maintained.
+
 **[Play it in your browser on itch.io](https://jesyikaturner.itch.io/mushroom-racer)**
 
 ![Mushroom Racer main menu](docs/menu-screen.png)
